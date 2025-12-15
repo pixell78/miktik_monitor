@@ -1,0 +1,8 @@
+*.log
+*.tmp
+*.swp
+node_modules/
+vendor/
+.env
+dist/
+build/
