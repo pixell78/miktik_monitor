@@ -45,7 +45,7 @@ logger = logging.getLogger(__name__)
 router = {
     'host': '192.168.20.1',  # IP do RB
     'username': 'admin',   # Usuário do RB
-    'password': 'LoguserSenai2020#',  # Senha do RB
+    'password': 'xxxxxxxxxx',  # Senha do RB
     'port': 8728  # Porta de API habilitada
 }
 
