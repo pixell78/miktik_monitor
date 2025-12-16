@@ -34,9 +34,9 @@ import time
 
 # Configurações do MikroTik
 router = {
-    'host': '192.168.20.1',  # IP do RB
+    'host': '192.168.x.y',  # IP do RB
     'username': 'admin',   # Usuário do RB
-    'password': 'LoguserSenai2020#',  # Senha do RB
+    'password': 'xxxxxxxx',  # Senha do RB
     'port': 8728  # Porta de API habilitada
 }
 
